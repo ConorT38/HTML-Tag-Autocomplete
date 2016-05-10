@@ -1,4 +1,5 @@
 $(document).keydown(function(){
+	
 var open_tags = ["<p>","<b>","<h2>","<code>"];
 var closed_tags = ["</p>","</b>","</h2>","</code>"];
 
